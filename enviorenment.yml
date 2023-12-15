@@ -14,3 +14,4 @@ Dependencies:
   - jupyter
   - jupyterlab
   - imbalanced-learn
+  - category_encoders
